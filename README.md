@@ -17,7 +17,7 @@
 
 ### CMD run as administrator
 CMD Commands:
-
+###
   reg delete "HKLM\Software\Microsoft\Windows\CurrentVersion\Policies" /f
   reg delete "HKLM\Software\Microsoft\WindowsSelfHost" /f
   reg delete "HKLM\Software\Policies" /f
@@ -28,3 +28,4 @@ CMD Commands:
   reg delete "HKCU\Software\Microsoft\WindowsSelfHost" /f
   reg delete "HKCU\Software\Policies" /f
   reg delete "HKLM\Software\Microsoft\Policies" /f
+###
