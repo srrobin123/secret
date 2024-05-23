@@ -34,8 +34,8 @@ CMD Commands:
 
 
 ## To activate Windows 10 and 11 follow the steps
-# Create active.cmd file and paste this code
-# Run as administrator
+### Create active.cmd file and paste this code
+### Run as administrator
 
 
 @echo off
